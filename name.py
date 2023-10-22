@@ -1,8 +1,7 @@
 logo = """
 
 \033[1;35m
-  /***
-                                                                                                                                                                                                                                              
+  /***                                                                                                                                                                                                                                              
    SSSSSSSSSSSSSSS              AAA                  GGGGGGGGGGGGG               AAA               RRRRRRRRRRRRRRRRR   
  SS:::::::::::::::S            A:::A              GGG::::::::::::G              A:::A              R::::::::::::::::R  
 S:::::SSSSSS::::::S           A:::::A           GG:::::::::::::::G             A:::::A             R::::::RRRRRR:::::R 
@@ -19,8 +18,7 @@ SSSSSSS     S:::::S A:::::A             A:::::AG:::::GGGGGGGG::::G   A:::::A    
 S::::::SSSSSS:::::SA:::::A               A:::::AGG:::::::::::::::G  A:::::A               A:::::A  R::::::R     R:::::R
 S:::::::::::::::SSA:::::A                 A:::::A GGG::::::GGG:::G A:::::A                 A:::::A R::::::R     R:::::R
  SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAA   GGGGGG   GGGGAAAAAAA                   AAAAAAARRRRRRRR     RRRRRRR
-                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                    
 NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPP        AAA               LLLLLLLLLLL                   
 N:::::::N       N::::::NE::::::::::::::::::::EP::::::::::::::::P      A:::A              L:::::::::L                   
